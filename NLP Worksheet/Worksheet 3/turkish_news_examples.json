@@ -1,0 +1,24 @@
+{
+    "turkish_news": [
+        {
+            "news_id":"n1",
+            "review":"Fitch'in kararına yurtdışından tepkiler: Fitch'in Türkiye'nin kredi derecelendirme notunu yükseltmesine yurt dışındaki ekonomistlerden de olumlu tepkiler geldi. UBS gelişmekte olan piyasalar strateji uzmanı Manik Narain, 'Kredi piyasaları Türkiye ile bir süredir yatırım yapılabilir notu almış gibi ticaret yapıyordu. Bugünden itibaren reel bir yatırım akışı başlayacak ve kredi masrafları düşecek' dedi. Standart Bank gelişmekte olan piyasalar araştırma müdürü Timothy Ash ise 'Yatırım yapılabilir notu Türkiye'ye uzun zaman önce verilmeliydi' diye konuşurken ülkeye dayatılan dış finansal risklerin uzun süredir abartıldığını belirtti. Ash, bu durumun Türkiye'ye güveni arttıracağını, Moody ve S&P'nin de Fitch'i takip etmesini beklediğini sözlerine ekledi.",
+            "label":"economy"
+        },
+        {
+            "news_id":"n2",
+            "review":"Herkes Burak'a Murat Burak'a. Büyükşehir maçında en çok pas '43'le Burak Yılmaz'a atıldı. G.Saray'daki en iyi futbolunu oynayan Kral da kaleye sırtı dönük aldığı pasları, Umut'a asiste çevirdi. G.Saray Teknik Direktörü Fatih Terim, Cluj sınavının provasını yaptığı Büyükşehir maçında taktik zekasından örnekler sergiledi. Fatih Hoca, '3 pasta gol' atma dersi verdi. Cim Bom'un 10 gol girişiminde ortalama pas sayısı 3.20 oldu. 3 pasta kaleye gitme taktiğinin odak noktasındaki isimse Burak Yılmaz'dı.",
+            "label":"sport"
+        },
+        {
+            "news_id":"n3",
+            "review":"Bayramda siber suç kurbanı olmamanın 7 yolu: Dünyanın en büyük antivirüs yazılım kuruluşlarından ESET, Türkiye'de Kurban Bayramı döneminde seyahatlerin ve kişisel bilgisayar kullanımının artması nedeniyle kullanıcıların siber suç kurbanı olmaması için uyarılarda bulundu. 'USB gibi taşınabilir hafıza kartlarının böyle dönemlerde paylaşımı artıyor' diyen ESET Türkiye Genel Müdür Yardımcısı Alev Akkoyunlu, 'Kontrolsüz kullanılan bellekler günümüzün en büyük virüs bulaştırıcıları' açıklamasını yaptı. Akkoyunlu, bu dönemde internette bayram armağanı olarak ulaşan 'imkansız' teklifler ve mesajlar konusunda da uyanık olmaya çağırarak bayramda güvende kalmak için 7 öneride bulundu.",
+            "label":"technology"
+        },
+        {
+            "news_id":"n4",
+            "review":"Stok, 17 Ekim'de Sangria Live'da Bağdat Caddesi’nin tek rock barı olan Sangria, sizi genç ve enerjik bir grupla eğlenceye davet ediyor. 17 Ekim Cumartesi akşamı Stok en yeni ve eğlenceli repertuvarı ile sahnede olacak. Bir yerli içki dahil 25 TL olan konser hafta ortası keyfinizi yerine getirecek. 13 yıldır rock severlerin Bağdat Caddesi’ndeki favori mekanı olan Sangria Live’da konserler son hızıyla devam ediyor.",
+            "label":"art and entertainment"
+        }
+    ]
+}

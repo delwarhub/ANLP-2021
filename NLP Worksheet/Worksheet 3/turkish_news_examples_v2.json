@@ -1,0 +1,24 @@
+{
+    "turkish_news": [
+        {
+            "news_id":"n1",
+            "review":"Penaltı noktasını çalan taraftara ceza. Fortuna Düsseldorf Kulübü, geçen sezonun sonunda Almanya Birinci Ligi'ne yükselmek için Hertha Berlin ile oynadığı play-out maçından sonra sahaya girerek penaltı noktasını çimlerden sökerek götüren taraftara yaptırım uygulamak istiyor. Kulüp sözcüsü Tom Koster, kamuoyu önünde bu hırsızlıktan dolayı alenen övünen taraftarın hatasını idrak etmesi için bir yaptırım hak ettiğini belirterek, bunun yapılmaması gerektiğini bir avukatla değil eğitilerek anlaması gerektiğini bildirdi. Taraftar hakkında yasal işlem başlatmayacaklarını ifade eden Koster, bu taraftara tazminat açarak maddi olarak iflasa sürüklemek istemediklerini söyledi.",
+            "label":""
+        },
+        {
+            "news_id":"n2",
+            "review":"Tüm Kuru yemiş Sanayici ve İş Adamları (TÜKSİAD) Derneği Başkanı Muammer Çaputçu, 'Yıllık kuru yemiş tüketimimiz yaklaşık 500 bin ton civarında olup, bu da 3,5-4 milyar dolarlık bir ekonomik tutara karşılık geliyor' dedi. Açıklamalarda bulunan Çaputçu, kuru yemiş tüketiminin yemek kültüründe önemli bir yere sahip olduğunu belirterek, son yıllarda artan çeşitliliği ve modern üretim teknolojileri ile kuru yemişin artık ciddi bir sektör haline geldiğini ifade etti. Çaputçu, Türkiye'nin bulunduğu coğrafi konum itibariyle ülkede birçok kuru yemişin üretilebildiğini, bununla birlikte Türkiye'nin fındık, üzüm, kayısı ve incirde dünyada söz sahibi konumunda olduğunu kaydetti.",
+            "label":""
+        },
+        {
+            "news_id":"n3",
+            "review":"Deniz ulaşımındaki yeniliklere bir yenisini daha ekleyen Şehir Hatları, İstanbul'un vapurlarının kalkış-varış saatlerini içeren Kış Tarifesi'ni QR (Karekod) uygulamasına taşıyor. Yolcularının deniz seyahatlerini daha kolay planlayabilmeleri için tüm hatlarındaki tarifeli seferlerini '2D Barkod' uygulamasıyla dijital ortama taşıyan Şehir Hatları'nın kare matrisinde yayınlanan kodlar sayesinde, yolcular Tarife Kitapçığı'na dijital ortamdan ulaşabilecek. İlaç, gıda, basın sektöründe hızla yaygınlaşmaya başlayan QR kodu kullanımı, barkod içeriğinin kameralı akıllı telefon ve tabletler tarafından görsel çözümleme yöntemiyle kullanılıyor.",
+            "label":""
+        },
+        {
+            "news_id":"n4",
+            "review":"'Fazıl Say Gecesi' adını taşıyan konserlerde sanatçının yeni eseri Universe Senfonisi, Şef Howard Griffiths yönetimindeki Frankurt Radyosu Senfoni Orkestrası tarafından seslendirilecek. Geçtiğimiz günlerde albüm kaydı tüm dünyada yayınlanan Say'ın 'Hezarfen Ney Konçertosu' solist Burcu Karadağ tarafından seslendirilirken, zengin senfonik öğeleriyle sanatseverlerin ilgi ile dinlediği 'İstanbul Senfonisi' gecede sanatseverlerin dinleyeceği bir diğer Say eseri olacak.",
+            "label":""
+        }
+    ]
+}

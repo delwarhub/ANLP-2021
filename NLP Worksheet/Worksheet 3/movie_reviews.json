@@ -1,0 +1,154 @@
+{
+    "movie_reviews": [
+        {
+            "review_id":"r1",
+            "review":"A series of escapades demonstrating the adage that what is good for the goose is also good for the gander, some of which occasionally amuses but none of which amounts to much of a story.",
+            "label":""
+        },
+        {
+            "review_id":"r2",
+            "review":"This quiet, introspective and entertaining independent is worth seeking",
+            "label":""
+        },
+        {
+            "review_id":"r3",
+            "review":"Even fans of Ismail Merchant's work , I suspect, would have a hard time sitting through this one.",
+            "label":""
+        },
+        {
+            "review_id":"r4",
+            "review":"Cattaneo should have followed the runaway success of his first film, The Full Monty, with something different.",
+            "label":""
+        },
+        {
+            "review_id":"r5",
+            "review":"A positively thrilling combination of ethnography and all the intrigue, betrayal, deceit and murder of a Shakespearean tragedy or a juicy soap opera.",
+            "label":""
+        },
+        {
+            "review_id":"r6",
+            "review":"Aggressive self-glorification and a manipulative whitewash.",
+            "label":""
+        },
+        {
+            "review_id":"r7",
+            "review":"A comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis.",
+            "label":""
+        },
+        {
+            "review_id":"r8",
+            "review":"Narratively, Trouble Every Day is a plodding mess.",
+            "label":""
+        },
+        {
+            "review_id":"r9",
+            "review":"The Importance of Being Earnest, so thick with wit it plays like a reading from Bartlett's Familiar Quotations.",
+            "label":""
+        },
+        {
+            "review_id":"r10",
+            "review":"There's little to recommend Snow Dogs, unless one considers cliched dialogue and perverse escapism a source of high hilarity.",
+            "label":""
+        },
+        {
+            "review_id":"r11",
+            "review":"Kung Pow is Oedekerk's realization of his childhood dream to be in a martial-arts flick , and proves that sometimes the dreams of youth should remain just that.",
+            "label":""
+        },
+        {
+            "review_id":"r12",
+            "review":"The performances are an absolute joy.",
+            "label":""
+        },
+        {
+            "review_id":"r13",
+            "review":"Fresnadillo has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense.",
+            "label":""
+        },
+        {
+            "review_id":"r14",
+            "review":"I still like Moonlight Mile, better judgment be damned.",
+            "label":""
+        },
+        {
+            "review_id":"r15",
+            "review":"A welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story.",
+            "label":""
+        },
+        {
+            "review_id":"r16",
+            "review":"A bilingual charmer, just like the woman who inspired it.",
+            "label":""
+        },
+        {
+            "review_id":"r17",
+            "review":"Like a less dizzily gorgeous companion to Mr. Wong's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting.",
+            "label":""
+        },
+        {
+            "review_id":"r18",
+            "review":"As inept as big-screen remakes of The Avengers and The Wild Wild West.",
+            "label":""
+        },
+        {
+            "review_id":"r19",
+            "review":"It's everything you 'd expect -- but nothing more.",
+            "label":""
+        },
+        {
+            "review_id":"r20",
+            "review":"Best indie of the year, so far.",
+            "label":""
+        },
+        {
+            "review_id":"r21",
+            "review":"Hatfield and Hicks make the oddest of couples, and in this sense the movie becomes a study of the gambles of the publishing world, offering a case study that exists apart from all the movie's political ramifications.",
+            "label":""
+        },
+        {
+            "review_id":"r22",
+            "review":"It's like going to a house party and watching the host defend himself against a frothing ex-girlfriend",
+            "label":""
+        },
+        {
+            "review_id":"r23",
+            "review":"That the Chuck Norris 'grenade gag' occurs about 7 times during Windtalkers is a good indication of how serious-minded the film is.",
+            "label":""
+        },
+        {
+            "review_id":"r24",
+            "review":"The plot is romantic comedy boilerplate from start to finish.",
+            "label":""
+        },
+        {
+            "review_id":"r25",
+            "review":"It arrives with an impeccable pedigree, mongrel pep, and almost indecipherable plot complications.",
+            "label":""
+        },
+        {
+            "review_id":"r26",
+            "review":"A film that clearly means to preach exclusively to the converted.",
+            "label":""
+        },
+        {
+            "review_id":"r27",
+            "review":"While The Importance of Being Earnest offers opportunities for occasional smiles and chuckles, it doesn't give us a reason to be in the theater beyond Wilde's wit and the actors' performances",
+            "label":""
+        },
+        {
+            "review_id":"r28",
+            "review":"Ice Age is the first computer-generated feature cartoon to feel like other movies, and that makes for some glacial pacing early on.",
+            "label":""
+        },
+        {
+            "review_id":"r29",
+            "review":"More vaudeville show than well-constructed narrative, but on those terms it's inoffensive and actually rather sweet.",
+            "label":""
+        },
+        {
+            "review_id":"r30",
+            "review":"Nothing more than a run-of-the-mill action flick.",
+            "label":""
+        }
+        ]
+}
