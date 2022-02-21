@@ -1,7 +1,6 @@
 # ANLP-2021
 
-Overview of the Contents
-We will mainly follow the major textbook in our field, Jurafsky & Martin's "Speech and Language Processing". The authors are currently preparing the 3rd edition, and while they are doing this, the draft version is freely available. We will use this mostly (denoted by JM3 below). The plan is to cover chapters 2 -- 9 and 12 -- 16.
+This course will mainly follow the major textbook in our field, Jurafsky & Martin's "Speech and Language Processing". The authors are currently preparing the 3rd edition, and while they are doing this, the draft version is freely available. We will use this mostly (denoted by JM3 below). The plan is to cover chapters 2 -- 9 and 12 -- 16.
 
 * Recently, another textbook that aims at a general introduction has come out, Jacob Eisenstein's "Introduction to Natural Language Processing". This takes a somewhat more CS / ML-inspired approach, and can be used as further background reading. (The free PDF that you will find online is the pre-final draft missing some corrections; we have a couple of paper copies available in the library.)
 
